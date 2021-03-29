@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1603868439 source:c:\users\mi\desktop\textedit\struct.c
+	"struct.h"
+	<assert.h>
+
+1602862326 source:c:\users\mi\desktop\textedit\main.cpp
+	<windows.h>
+	<stdio.h>
+	"struct.h"
+
+1603868261 c:\users\mi\desktop\textedit\struct.h
+	<windows.h>
+
+1604018475 source:c:\users\mi\desktop\textedit\main.c
+	<windows.h>
+	<stdio.h>
+	"struct.h"
+	"write.h"
+	"menu.h"
+	"caret.h"
+	"save.h"
+	"debug.h"
+
+1603552836 source:c:\users\mi\desktop\textedit\read.c
+	<windows.h>
+	<stdio.h>
+	"struct.h"
+
+1603884790 source:c:\users\mi\desktop\textedit\res.rc
+	<windows.h>
+	"menu.h"
+
+1603884725 c:\users\mi\desktop\textedit\menu.h
+
+1602913704 source:c:\users\mi\desktop\textedit\print.c
+
+1603535150 source:c:\users\mi\desktop\textedit\write.c
+	<windows.h>
+	"struct.h"
+
+1603209654 c:\users\mi\desktop\textedit\write.h
+
+1603461584 c:\users\mi\desktop\textedit\debug.h
+	"struct.h"
+	"stdio.h"
+
+1603883464 c:\users\mi\desktop\textedit\caret.h
+	"struct.h"
+
+1603881804 source:c:\users\mi\desktop\textedit\caret.c
+	"caret.h"
+	<windows.h>
+	"menu.h"
+
+1603896197 source:c:\users\mi\desktop\textedit\edit.c
+	"edit.h"
+
+1603868330 c:\users\mi\desktop\textedit\edit.h
+	"struct.h"
+	"caret.h"
+	"menu.h"
+
+1603885597 source:c:\users\mi\desktop\textedit\save.c
+	<stdio.h>
+	"save.h"
+
+1603885244 c:\users\mi\desktop\textedit\save.h
+	"struct.h"
+	"windows.h"
+

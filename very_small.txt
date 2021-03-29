@@ -1,0 +1,8 @@
+Hello!
+This is my simple text editor!
+Your welcome!
+20 symbols
+2 columns
+
+this exapmle was created very long line for layout debug
+for better dubugging
